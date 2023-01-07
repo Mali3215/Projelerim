@@ -9,3 +9,5 @@ güncelleme vb) bir projedir. Bu proje ile farklı
 dosya yapıları üstünde işlem yapmayı , verileri 
 sıralamayı , struct tanımını uygulamış ve 
 öğrenmiş olmayı amaçlıyoruz.
+
+Projenin detayları rapor kısmında paylaşılmıştır.
