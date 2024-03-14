@@ -11,3 +11,5 @@ sıralamayı , struct tanımını uygulamış ve
 öğrenmiş olmayı amaçlıyoruz.
 
 Projenin detayları rapor kısmında paylaşılmıştır.
+
+![alt text](https://github.com/Mali3215/Prolab-1-1.Proje-Ogrenci-Bilgi-Sistemi-/blob/main/prolab%201.%20proje/Prolab1-1Rapor.pdf)
